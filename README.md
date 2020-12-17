@@ -1,1 +1,1 @@
-# multiple-table-join-lookup
+# Talend-multipleTableLookup
